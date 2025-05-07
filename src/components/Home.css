@@ -1,0 +1,11 @@
+/* Home.css */
+
+
+/* Body Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    text-shadow: #6839d6d2 0.5px 1px 1px;
+}

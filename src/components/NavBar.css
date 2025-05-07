@@ -1,0 +1,8 @@
+.nav-logo {
+    max-width: 35%;
+    min-width: 100px;
+}
+
+.custom-navbar {
+    background: linear-gradient(135deg, #3f1286, #0c4a74);
+}
