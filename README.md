@@ -62,6 +62,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 3. Install dependencies:
      ```bash
      npm install
+     npm install axios react-bootstrap reac-router-dom
      ```
 4. Start the development server:
      ```bash
